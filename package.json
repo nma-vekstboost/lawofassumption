@@ -1,8 +1,13 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "lawofassumption",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
+  "description": "An immersive meditation experience for Law of Assumption practitioners - visualize and manifest your desired reality",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nma-vekstboost/lawofassumption.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
